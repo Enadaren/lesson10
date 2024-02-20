@@ -9,8 +9,6 @@ def print_cpu_inform(func):
             text_file.writelines('{:<70}'.format(result[0])+'{:>10}'.format(result[1])+"\n")
     return wrapper
 
-
-
 @print_cpu_inform
 def cpu_inform():
     value=psutil.cpu_percent(interval=1)

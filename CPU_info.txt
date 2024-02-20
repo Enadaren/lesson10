@@ -1,4 +1,4 @@
-CPU[||||||||||||                                                          24.5%]
-Tasks: 200, 1 thr        
-Load average: 0.51 0.53 0.38
-Uptime: 0 days, 4:24:55
+CPU[||||||||||||||||||||||||||||||||||||||||||||                          87.8%]
+Tasks: 194, 1 thr        
+Load average: 1.8 0.62 0.22
+Uptime: 0 days, 0:1:20

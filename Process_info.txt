@@ -1,27 +1,32 @@
    PID         User            VIRT       RES      CPU%    MEM%      Time          Command       
-     1        root             164.0      12.9     0.0     0.2    0:0.84     /sbin/init     
+     1        root             162.8      11.5     0.0     0.1    0:0.27     /sbin/init     
      2        root               0.0       0.0     0.0     0.0     0:0.0         NA         
      3        root               0.0       0.0     0.0     0.0     0:0.0         NA         
      4        root               0.0       0.0     0.0     0.0     0:0.0         NA         
      5        root               0.0       0.0     0.0     0.0     0:0.0         NA         
      6        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+     7        root               0.0       0.0     0.0     0.0     0:0.0         NA         
      8        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+     9        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    10        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     11        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     12        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     13        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     14        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-    15        root               0.0       0.0     0.0     0.0    0:0.01         NA         
-    16        root               0.0       0.0     0.0     0.0    0:7.93         NA         
-    17        root               0.0       0.0     0.0     0.0    0:0.09         NA         
+    15        root               0.0       0.0     0.0     0.0    0:0.21         NA         
+    16        root               0.0       0.0     0.0     0.0    0:0.02         NA         
+    17        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     18        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     19        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     20        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     21        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    22        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     23        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-    24        root               0.0       0.0     0.0     0.0    0:0.01         NA         
+    24        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     25        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    26        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     27        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-    28        root               0.0       0.0     0.0     0.0    0:1.17         NA         
+    28        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     29        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     30        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     31        root               0.0       0.0     0.0     0.0     0:0.0         NA         
@@ -34,6 +39,7 @@
     38        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     39        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     40        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    41        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     42        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     43        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     44        root               0.0       0.0     0.0     0.0     0:0.0         NA         
@@ -42,160 +48,148 @@
     47        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     48        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     49        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    50        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    51        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    52        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     53        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     54        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+    56        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     62        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     64        root               0.0       0.0     0.0     0.0     0:0.0         NA         
     68        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-   110        root               0.0       0.0     0.0     0.0    0:0.02         NA         
+   110        root               0.0       0.0     0.0     0.0    0:0.01         NA         
    111        root               0.0       0.0     0.0     0.0     0:0.0         NA         
    118        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-   142        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+   142        root               0.0       0.0     0.0     0.0    0:0.02         NA         
    143        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-   182        root              47.6      20.5     0.0     0.3    0:0.51 /lib/systemd/systemd-journald
-   211        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+   182        root              39.2      22.4     0.0     0.3    0:0.11 /lib/systemd/systemd-journald
+   200        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+   204        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+   212        root               0.0       0.0     0.0     0.0     0:0.0         NA         
    213        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-   234        root              26.2       6.6     0.0     0.1    0:0.11 /lib/systemd/systemd-udevd
-   294        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-   357    systemd-oom           14.5       6.6     0.0     0.1   0:12.19 /lib/systemd/systemd-oomd
-   358  systemd-resolve         25.7      14.5     0.0     0.2    0:1.13 /lib/systemd/systemd-resolved
-   359  systemd-timesync        87.3       7.4     0.0     0.1    0:0.04 /lib/systemd/systemd-timesyncd
-   476        root             237.4       7.9     0.0     0.1    0:0.26 /usr/libexec/accounts-daemon
-   478        root               2.8       1.9     0.0     0.0    0:0.53   /usr/sbin/acpid  
-   485       avahi               7.4       4.0     0.0     0.1    0:0.01    avahi-daemon:   
-   489        root              12.0       2.8     0.0     0.0    0:0.03   /usr/sbin/cron   
-   491     messagebus           10.7       6.2     0.0     0.1    0:0.75    @dbus-daemon    
-   494        root             537.9      18.8     0.0     0.2    0:0.81 /usr/sbin/NetworkManager
-   507        root              42.8      20.9     0.0     0.3    0:0.06  /usr/bin/python3  
-   511        root             231.4      10.0     0.0     0.1    0:0.24 /usr/libexec/polkitd
-   512        root             237.4       7.6     0.0     0.1    0:0.01 /usr/libexec/power-profiles-daemon
-   515       syslog            217.2       5.9     0.0     0.1    0:0.11 /usr/sbin/rsyslogd 
-   528        root            1288.3      30.5     0.0     0.4    0:2.97 /usr/lib/snapd/snapd
-   534        root             233.8       6.6     0.0     0.1    0:0.03 /usr/libexec/switcheroo-control
-   539        root              23.1       8.0     0.0     0.1    0:0.05 /lib/systemd/systemd-logind
-   546        root             383.9      13.1     0.0     0.2    0:0.08 /usr/libexec/udisks2/udisksd
-   550        root              16.1       6.4     0.0     0.1    0:0.06 /sbin/wpa_supplicant
-   575       avahi               7.3       1.2     0.0     0.0     0:0.0    avahi-daemon:   
-   597        root             310.5      12.4     0.0     0.2    0:0.02 /usr/sbin/ModemManager
-   647        root             118.2      23.1     0.0     0.3    0:0.06  /usr/bin/python3  
-   655        root             238.4       9.1     0.0     0.1    0:0.02   /usr/sbin/gdm3   
-   662        root              73.6      13.1     0.0     0.2     0:0.0   /usr/sbin/cupsd  
-   666        root             313.4      10.9     0.0     0.1    0:0.01 gdm-session-worker 
-   725       alisa              17.5      10.4     0.0     0.1    0:0.58 /lib/systemd/systemd
-   730       alisa             101.8       5.5     0.0     0.1     0:0.0      (sd-pam)      
-   738        root             168.6      11.4     0.0     0.1    0:0.01 /usr/sbin/cups-browsed
-   762      kernoops            12.8       2.2     0.0     0.0     0:0.0 /usr/sbin/kerneloops
-   764      kernoops            12.8       2.1     0.0     0.0    0:0.02 /usr/sbin/kerneloops
-   845       alisa              41.4       6.4     0.0     0.1    0:0.03  /usr/bin/pipewire 
-   847       alisa              25.7       6.4     0.0     0.1    0:0.01 /usr/bin/pipewire-media-session
-   849       alisa            1648.2      26.4     0.0     0.3    0:0.11 /usr/bin/pulseaudio
-   850       alisa              74.5      13.8     0.0     0.2    0:0.02 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
-   852       alisa             382.2       8.0     0.0     0.1    0:0.12 /usr/bin/gnome-keyring-daemon
-   857       alisa             981.9       8.2     0.0     0.1     0:0.0 /usr/bin/ubuntu-report
-   863       rtkit             150.4       3.2     0.0     0.0    0:0.04 /usr/libexec/rtkit-daemon
-   870       alisa               9.9       6.0     0.0     0.1    0:1.07 /usr/bin/dbus-daemon
-   872       alisa             161.5       6.0     0.0     0.1     0:0.0 /usr/libexec/gdm-wayland-session
-   880       alisa             310.0       8.1     0.0     0.1    0:0.05 /usr/libexec/gvfsd 
-   881       alisa             220.7      15.5     0.0     0.2    0:0.01 /usr/libexec/gnome-session-binary
-   893       alisa             372.0       6.8     0.0     0.1     0:0.0 /usr/libexec/gvfsd-fuse
-   965       alisa              92.5       5.4     0.0     0.1     0:0.0 /usr/libexec/gnome-session-ctl
-   979       alisa             646.7      18.0     0.0     0.2    0:0.09 /usr/libexec/gnome-session-binary
-  1008       alisa            4046.7     465.2     0.0     5.9  12:35.46 /usr/bin/gnome-shell
-  1009       alisa             302.4       7.6     0.0     0.1    0:0.01 /usr/libexec/at-spi-bus-launcher
-  1016       alisa             455.3       7.6     0.0     0.1    0:0.08 /usr/libexec/xdg-document-portal
-  1023       alisa               8.4       4.4     0.0     0.1    0:0.03 /usr/bin/dbus-daemon
-  1025       alisa             233.6       6.4     0.0     0.1     0:0.0 /usr/libexec/xdg-permission-store
-  1031       alisa               2.7       1.8     0.0     0.0     0:0.0     fusermount3    
-  1131       alisa             299.2      22.0     0.0     0.3    0:0.09 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
-  1135       alisa             540.1      14.2     0.0     0.2    0:0.33 /usr/libexec/xdg-desktop-portal
-  1139       alisa             370.2      28.6     0.0     0.4    0:0.39 /usr/libexec/xdg-desktop-portal-gnome
-  1145       alisa             569.1      18.1     0.0     0.2    0:0.06 /usr/libexec/gnome-shell-calendar-server
-  1151       alisa             666.1      26.0     0.0     0.3    0:0.04 /usr/libexec/evolution-source-registry
-  1158       alisa             639.8      40.1     0.0     0.5    0:0.03 /usr/libexec/goa-daemon
-  1159        root             239.6       9.1     0.0     0.1    0:0.14 /usr/libexec/upowerd
-  1163       alisa             703.8      30.8     0.0     0.4    0:0.07 /usr/libexec/evolution-calendar-factory
-  1171       alisa             153.4       5.9     0.0     0.1    0:0.06 /usr/libexec/dconf-service
-  1182       alisa             659.6      28.6     0.0     0.4    0:0.05 /usr/libexec/evolution-addressbook-factory
-  1183       alisa             311.5      10.6     0.0     0.1     0:0.1 /usr/libexec/gvfs-udisks2-volume-monitor
-  1200       alisa             310.8       8.1     0.0     0.1    0:0.49 /usr/libexec/gvfs-afc-volume-monitor
-  1201       alisa             333.5      15.2     0.0     0.2    0:0.02 /usr/libexec/goa-identity-service
-  1208       alisa             234.9       7.1     0.0     0.1    0:0.03 /usr/libexec/gvfs-gphoto2-volume-monitor
-  1219       alisa             234.0       6.8     0.0     0.1    0:0.03 /usr/libexec/gvfs-goa-volume-monitor
-  1225       alisa             233.8       6.8     0.0     0.1    0:0.03 /usr/libexec/gvfs-mtp-volume-monitor
-  1231        root             294.2      20.2     0.0     0.3    0:0.12 /usr/libexec/packagekitd
-  1238       alisa             310.5       9.2     0.0     0.1    0:0.03 /usr/libexec/gvfsd-trash
-  1249       alisa            2541.5      27.4     0.0     0.3    0:0.05    /usr/bin/gjs    
-  1251       alisa             158.9       7.4     0.0     0.1    0:0.02 /usr/libexec/at-spi2-registryd
-  1260       alisa               2.8       1.5     0.0     0.0     0:0.0         sh         
-  1261       alisa             306.2       7.0     0.0     0.1     0:0.0 /usr/libexec/gsd-a11y-settings
-  1264       alisa             310.7      11.9     0.0     0.2    0:0.56 /usr/bin/ibus-daemon
-  1267       alisa             444.1      26.1     0.0     0.3    0:0.13 /usr/libexec/gsd-color
-  1268       alisa             369.7      16.1     0.0     0.2    0:0.01 /usr/libexec/gsd-datetime
-  1274       alisa             307.7       8.1     0.0     0.1    0:0.36 /usr/libexec/gsd-housekeeping
-  1275       alisa             336.2      22.5     0.0     0.3    0:0.08 /usr/libexec/gsd-keyboard
-  1278       alisa             631.6      27.4     0.0     0.3    0:0.12 /usr/libexec/gsd-media-keys
-  1280       alisa             371.5      26.1     0.0     0.3    0:0.12 /usr/libexec/gsd-power
-  1282       alisa             247.0      11.4     0.0     0.1     0:0.0 /usr/libexec/gsd-print-notifications
-  1283       alisa             450.1       6.9     0.0     0.1    0:0.01 /usr/libexec/gsd-rfkill
-  1285       alisa             233.7       6.4     0.0     0.1     0:0.0 /usr/libexec/gsd-screensaver-proxy
-  1291       alisa             458.1      10.8     0.0     0.1    0:0.02 /usr/libexec/gsd-sharing
-  1298       alisa             452.1       8.4     0.0     0.1     0:0.0 /usr/libexec/gsd-smartcard
-  1303       alisa             314.9       9.9     0.0     0.1     0:0.0 /usr/libexec/gsd-sound
-  1306       alisa             336.6      23.1     0.0     0.3    0:0.08 /usr/libexec/gsd-wacom
-  1324       alisa             811.8      66.4     0.0     0.8    0:0.21 /usr/libexec/evolution-data-server/evolution-alarm-notify
-  1329       alisa             162.6       7.4     0.0     0.1     0:0.0 /usr/libexec/ibus-memconf
-  1331       alisa             343.1      29.6     0.0     0.4    0:1.69 /usr/libexec/ibus-extension-gtk3
-  1342       alisa             234.6       7.6     0.0     0.1    0:0.08 /usr/libexec/ibus-portal
-  1343       alisa             226.8       7.6     0.0     0.1    0:0.01 /usr/libexec/gsd-disk-utility-notify
-  1380       alisa             337.3      15.0     0.0     0.2    0:0.01 /usr/libexec/gsd-printer
-  1417       alisa             162.6       7.5     0.0     0.1    0:0.09 /usr/libexec/ibus-engine-simple
-  1441       alisa             339.8      26.1     0.0     0.3    0:0.18 /usr/libexec/xdg-desktop-portal-gtk
-  1450       colord            242.4      13.1     0.0     0.2    0:0.07 /usr/libexec/colord
-  1457       alisa             633.5      31.5     0.0     0.4    0:0.36 /usr/libexec/tracker-miner-fs-3
-  1486       alisa            2541.6      27.3     0.0     0.3    0:0.04    /usr/bin/gjs    
-  1531       alisa             162.2       6.8     0.0     0.1     0:0.0 /usr/libexec/gvfsd-metadata
-  1568       alisa             341.1      28.5     0.0     0.4     0:0.4   update-notifier  
-  1777       alisa            3008.3     371.1     0.0     4.7   0:26.44 /snap/firefox/3779/usr/lib/firefox/firefox
-  1992       alisa             199.4      48.9     0.0     0.6    0:0.02 /snap/firefox/3779/usr/lib/firefox/firefox
-  2005       alisa            2354.3      90.9     0.0     1.1    0:0.31 /snap/firefox/3779/usr/lib/firefox/firefox
-  2027       alisa            2384.4     119.8     0.0     1.5    0:0.65 /snap/firefox/3779/usr/lib/firefox/firefox
-  2053       alisa            2460.2     175.0     0.0     2.2    0:5.73 /snap/firefox/3779/usr/lib/firefox/firefox
-  2073       alisa            1063.9      18.2     0.0     0.2     0:0.0    /usr/bin/snap   
-  2270       alisa             198.3      44.5     0.0     0.6    0:0.02 /snap/firefox/3779/usr/lib/firefox/firefox
-  2271       alisa            2325.0      71.2     0.0     0.9    0:0.05 /snap/firefox/3779/usr/lib/firefox/firefox
-  2274       alisa            2325.0      71.1     0.0     0.9    0:0.06 /snap/firefox/3779/usr/lib/firefox/firefox
-  2346       alisa            2325.0      70.9     0.0     0.9    0:0.04 /snap/firefox/3779/usr/lib/firefox/firefox
-  2384       alisa         1151305.9     183.2     0.0     2.3    1:5.48 /usr/share/code/code
-  2389       alisa           32988.4      45.4     0.0     0.6    0:0.01 /usr/share/code/code
-  2390       alisa           32988.4      45.8     0.0     0.6     0:0.0 /usr/share/code/code
-  2392       alisa           32988.4      11.1     0.0     0.1     0:0.0 /usr/share/code/code
-  2406       alisa           32789.0       3.5     0.0     0.0     0:0.0 /usr/share/code/chrome_crashpad_handler
-  2409       alisa             224.6      84.4     0.0     1.1   0:26.79  /usr/bin/Xwayland 
-  2412       alisa             520.0      80.1     0.0     1.0    0:0.33 /usr/libexec/gsd-xsettings
-  2440       alisa             193.1      25.3     0.0     0.3    0:0.25 /usr/libexec/ibus-x11
-  2457       alisa           33293.9     131.0     0.0     1.7    4:3.96 /usr/share/code/code
-  2466       alisa           33037.5      64.7     0.0     0.8    0:1.83 /usr/share/code/code
-  2489       alisa         1165176.4     370.9     0.0     4.7  13:31.44 /usr/share/code/code
-  2518       alisa         1150805.7      92.1     0.0     1.2   0:15.92 /usr/share/code/code
-  2538       alisa         1150789.1      98.0     0.0     1.2    0:7.15 /usr/share/code/code
-  2539       alisa         1150805.7      86.3     0.0     1.1    0:4.74 /usr/share/code/code
-  2634       alisa              13.9       5.5     0.0     0.1    0:0.01    /usr/bin/bash   
-  2860       alisa               7.9       5.8     0.0     0.1    0:0.01 /usr/bin/ssh-agent 
-  2947       alisa             382.7       9.4     0.0     0.1    0:0.01 /usr/libexec/gvfsd-network
-  2973       alisa             384.4       9.2     0.0     0.1     0:0.0 /usr/libexec/gvfsd-dnssd
-  2999       alisa         1150796.2     177.6     0.0     2.2    0:56.5 /usr/share/code/code
-  3020       alisa         1150718.5      77.5     0.0     1.0    0:1.32 /usr/share/code/code
-  3047       alisa         1152774.5     247.0     0.0     3.1   6:48.45 /usr/share/code/code
-  3063        root               0.0       0.0     0.0     0.0    0:0.74         NA         
-  3352       alisa             728.9      80.5     0.0     1.0   0:17.52  /usr/bin/nautilus 
-  3609        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-  3761       alisa              13.9       5.4     0.0     0.1    0:0.01    /usr/bin/bash   
-  4100        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-  4160       alisa            2733.4      59.1     0.0     0.7    0:2.41         gjs        
-  4226        root             504.2      77.2     0.0     1.0    0:1.47 /usr/libexec/fwupd/fwupd
-  4262        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-  4924        root               0.0       0.0     0.0     0.0     0:0.0         NA         
-  6030       alisa              24.6      12.8     0.0     0.2    0:0.12    /bin/python3    
-  6035       alisa               2.8       1.5     0.0     0.0     0:0.0       /bin/sh      
-  6036       alisa              12.5       3.5     0.0     0.0     0:0.0      /bin/bash     
-  6040       alisa              10.9       1.9     0.0     0.0     0:0.0        sleep       
+   214        root              26.2       6.8     0.0     0.1    0:0.08 /lib/systemd/systemd-udevd
+   291        root               0.0       0.0     0.0     0.0     0:0.0         NA         
+   351    systemd-oom           14.5       6.6     0.0     0.1    0:0.06 /lib/systemd/systemd-oomd
+   353  systemd-resolve         25.2      13.7     0.0     0.2    0:0.05 /lib/systemd/systemd-resolved
+   354  systemd-timesync        87.3       7.4     0.0     0.1    0:0.03 /lib/systemd/systemd-timesyncd
+   449        root             237.4       7.9     0.0     0.1    0:0.04 /usr/libexec/accounts-daemon
+   451        root               2.8       1.9     0.0     0.0     0:0.0   /usr/sbin/acpid  
+   453        root              10.9       2.4     0.0     0.0     0:0.0  /usr/sbin/anacron 
+   460       avahi               7.4       4.0     0.0     0.1    0:0.01    avahi-daemon:   
+   462        root              12.0       2.8     0.0     0.0     0:0.0   /usr/sbin/cron   
+   465     messagebus           10.6       6.1     0.0     0.1    0:0.21    @dbus-daemon    
+   468        root             537.8      18.9     0.0     0.2    0:0.09 /usr/sbin/NetworkManager
+   486        root              42.8      21.0     0.0     0.3    0:0.07  /usr/bin/python3  
+   489        root             231.4       9.7     0.0     0.1    0:0.08 /usr/libexec/polkitd
+   490        root             237.4       7.8     0.0     0.1    0:0.01 /usr/libexec/power-profiles-daemon
+   494       syslog            217.2       5.9     0.0     0.1     0:0.0 /usr/sbin/rsyslogd 
+   501        root            1216.3      30.9     0.0     0.4    0:0.28 /usr/lib/snapd/snapd
+   506        root             233.8       7.0     0.0     0.1    0:0.02 /usr/libexec/switcheroo-control
+   518        root              23.1       8.1     0.0     0.1    0:0.05 /lib/systemd/systemd-logind
+   526        root             383.9      13.1     0.0     0.2    0:0.05 /usr/libexec/udisks2/udisksd
+   528        root              16.1       6.4     0.0     0.1    0:0.01 /sbin/wpa_supplicant
+   557       avahi               7.3       1.3     0.0     0.0     0:0.0    avahi-daemon:   
+   572        root             310.5      12.2     0.0     0.2    0:0.04 /usr/sbin/ModemManager
+   621        root             238.4       9.1     0.0     0.1    0:0.02   /usr/sbin/gdm3   
+   631        root             118.2      23.2     0.0     0.3    0:0.05  /usr/bin/python3  
+   634        root             169.4      10.2     0.0     0.1    0:0.01 gdm-session-worker 
+   636        root              73.6      13.1     0.0     0.2     0:0.0   /usr/sbin/cupsd  
+   687       alisa              17.5      10.5     0.0     0.1    0:0.32 /lib/systemd/systemd
+   692       alisa             101.8       5.6     0.0     0.1     0:0.0      (sd-pam)      
+   702        root             168.6      11.4     0.0     0.1     0:0.0 /usr/sbin/cups-browsed
+   719      kernoops            12.8       2.1     0.0     0.0     0:0.0 /usr/sbin/kerneloops
+   726      kernoops            12.8       2.2     0.0     0.0     0:0.0 /usr/sbin/kerneloops
+   829       alisa              41.4       6.4     0.0     0.1    0:0.01  /usr/bin/pipewire 
+   830       alisa              25.7       6.4     0.0     0.1     0:0.0 /usr/bin/pipewire-media-session
+   831       alisa            1136.2      26.3     0.0     0.3    0:0.12 /usr/bin/pulseaudio
+   837       alisa             382.2       7.9     0.0     0.1    0:0.05 /usr/bin/gnome-keyring-daemon
+   841       alisa             981.9       8.1     0.0     0.1     0:0.0 /usr/bin/ubuntu-report
+   847       rtkit             150.4       3.2     0.0     0.0     0:0.0 /usr/libexec/rtkit-daemon
+   857       alisa               9.4       5.8     0.0     0.1    0:0.26 /usr/bin/dbus-daemon
+   860       alisa             161.5       6.0     0.0     0.1     0:0.0 /usr/libexec/gdm-wayland-session
+   869       alisa             220.7      15.5     0.0     0.2     0:0.0 /usr/libexec/gnome-session-binary
+   874       alisa             238.0       8.0     0.0     0.1    0:0.02 /usr/libexec/gvfsd 
+   887       alisa             372.0       6.9     0.0     0.1     0:0.0 /usr/libexec/gvfsd-fuse
+   950       alisa              92.5       5.4     0.0     0.1     0:0.0 /usr/libexec/gnome-session-ctl
+   966       alisa             510.7      18.0     0.0     0.2    0:0.11 /usr/libexec/gnome-session-binary
+   998       alisa            3712.3     388.3     0.0     4.9    0:7.11 /usr/bin/gnome-shell
+   999       alisa             302.4       7.6     0.0     0.1     0:0.0 /usr/libexec/at-spi-bus-launcher
+  1010       alisa               8.2       4.4     0.0     0.1    0:0.01 /usr/bin/dbus-daemon
+  1015       alisa             455.3       7.5     0.0     0.1    0:0.01 /usr/libexec/xdg-document-portal
+  1018       alisa             233.6       6.2     0.0     0.1     0:0.0 /usr/libexec/xdg-permission-store
+  1024       alisa               2.7       1.8     0.0     0.0     0:0.0     fusermount3    
+  1118       alisa             569.1      18.1     0.0     0.2    0:0.02 /usr/libexec/gnome-shell-calendar-server
+  1124       alisa             458.1      25.6     0.0     0.3    0:0.04 /usr/libexec/evolution-source-registry
+  1131       alisa             639.8      39.9     0.0     0.5    0:0.04 /usr/libexec/goa-daemon
+  1132        root             239.6       9.0     0.0     0.1    0:0.03 /usr/libexec/upowerd
+  1135       alisa             695.8      30.9     0.0     0.4    0:0.04 /usr/libexec/evolution-calendar-factory
+  1144       alisa             153.3       5.8     0.0     0.1     0:0.0 /usr/libexec/dconf-service
+  1155       alisa             311.6      10.5     0.0     0.1    0:0.01 /usr/libexec/gvfs-udisks2-volume-monitor
+  1156       alisa             659.5      28.5     0.0     0.4    0:0.03 /usr/libexec/evolution-addressbook-factory
+  1173       alisa             333.5      15.2     0.0     0.2    0:0.01 /usr/libexec/goa-identity-service
+  1174       alisa             310.8       8.4     0.0     0.1    0:0.01 /usr/libexec/gvfs-afc-volume-monitor
+  1184       alisa             234.8       7.0     0.0     0.1    0:0.01 /usr/libexec/gvfs-gphoto2-volume-monitor
+  1189       alisa             234.0       6.6     0.0     0.1     0:0.0 /usr/libexec/gvfs-goa-volume-monitor
+  1198       alisa             233.8       6.8     0.0     0.1    0:0.01 /usr/libexec/gvfs-mtp-volume-monitor
+  1203        root             294.2      20.3     0.0     0.3     0:0.0 /usr/libexec/packagekitd
+  1210       alisa             310.4       9.1     0.0     0.1     0:0.0 /usr/libexec/gvfsd-trash
+  1221       alisa            2541.6      27.3     0.0     0.3    0:0.04    /usr/bin/gjs    
+  1223       alisa             158.9       7.5     0.0     0.1     0:0.0 /usr/libexec/at-spi2-registryd
+  1232       alisa               2.8       1.5     0.0     0.0     0:0.0         sh         
+  1233       alisa             306.2       7.0     0.0     0.1     0:0.0 /usr/libexec/gsd-a11y-settings
+  1234       alisa             444.1      26.0     0.0     0.3     0:0.1 /usr/libexec/gsd-color
+  1237       alisa             382.7      11.8     0.0     0.1    0:0.08 /usr/bin/ibus-daemon
+  1239       alisa             369.7      16.1     0.0     0.2    0:0.01 /usr/libexec/gsd-datetime
+  1245       alisa             307.7       8.2     0.0     0.1    0:0.01 /usr/libexec/gsd-housekeeping
+  1246       alisa             336.2      22.6     0.0     0.3    0:0.07 /usr/libexec/gsd-keyboard
+  1251       alisa             631.6      27.4     0.0     0.3     0:0.1 /usr/libexec/gsd-media-keys
+  1252       alisa             371.5      26.3     0.0     0.3     0:0.1 /usr/libexec/gsd-power
+  1253       alisa             247.0      11.2     0.0     0.1     0:0.0 /usr/libexec/gsd-print-notifications
+  1257       alisa             450.1       7.0     0.0     0.1     0:0.0 /usr/libexec/gsd-rfkill
+  1259       alisa             233.7       6.6     0.0     0.1     0:0.0 /usr/libexec/gsd-screensaver-proxy
+  1260       alisa             458.1      10.8     0.0     0.1    0:0.01 /usr/libexec/gsd-sharing
+  1268       alisa             452.1       8.5     0.0     0.1     0:0.0 /usr/libexec/gsd-smartcard
+  1272       alisa             314.9      10.0     0.0     0.1     0:0.0 /usr/libexec/gsd-sound
+  1276       alisa             336.7      23.1     0.0     0.3    0:0.08 /usr/libexec/gsd-wacom
+  1296       alisa             811.9      66.1     0.0     0.8    0:0.16 /usr/libexec/evolution-data-server/evolution-alarm-notify
+  1300       alisa              74.5      14.0     0.0     0.2    0:0.04 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+  1315       alisa             162.6       7.4     0.0     0.1     0:0.0 /usr/libexec/ibus-memconf
+  1317       alisa             343.1      29.4     0.0     0.4    0:1.49 /usr/libexec/ibus-extension-gtk3
+  1318       alisa             226.8       7.5     0.0     0.1     0:0.0 /usr/libexec/gsd-disk-utility-notify
+  1328       alisa             234.6       7.5     0.0     0.1    0:0.01 /usr/libexec/ibus-portal
+  1369       alisa             337.3      15.0     0.0     0.2     0:0.0 /usr/libexec/gsd-printer
+  1443       alisa             299.2      22.0     0.0     0.3    0:0.14 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+  1447       alisa             540.1      14.0     0.0     0.2    0:0.05 /usr/libexec/xdg-desktop-portal
+  1451       alisa             369.9      28.4     0.0     0.4    0:0.15 /usr/libexec/xdg-desktop-portal-gnome
+  1460       alisa             162.6       7.5     0.0     0.1    0:0.01 /usr/libexec/ibus-engine-simple
+  1465       colord            242.4      12.9     0.0     0.2    0:0.07 /usr/libexec/colord
+  1477       alisa             705.6      31.9     0.0     0.4    0:0.34 /usr/libexec/tracker-miner-fs-3
+  1518       alisa            2541.6      27.3     0.0     0.3    0:0.04    /usr/bin/gjs    
+  1529       alisa             339.9      26.1     0.0     0.3    0:0.11 /usr/libexec/xdg-desktop-portal-gtk
+  1544       alisa            2733.9      59.9     0.0     0.8    0:0.35         gjs        
+  1578       alisa             162.1       6.4     0.0     0.1     0:0.0 /usr/libexec/gvfsd-metadata
+  1606       alisa         1150954.1     158.3     0.0     2.0    0:1.64 /usr/share/code/code
+  1611       alisa           32988.4      45.4     0.0     0.6     0:0.0 /usr/share/code/code
+  1612       alisa           32988.4      45.9     0.0     0.6    0:0.01 /usr/share/code/code
+  1614       alisa           32988.4      11.0     0.0     0.1     0:0.0 /usr/share/code/code
+  1628       alisa           32789.0       3.2     0.0     0.0     0:0.0 /usr/share/code/chrome_crashpad_handler
+  1631       alisa             222.4      82.4     0.0     1.0    0:0.12  /usr/bin/Xwayland 
+  1634       alisa             520.0      80.0     0.0     1.0    0:0.14 /usr/libexec/gsd-xsettings
+  1659       alisa             192.8      24.9     0.0     0.3    0:0.06 /usr/libexec/ibus-x11
+  1676       alisa           33251.7     117.9     0.0     1.5    0:0.71 /usr/share/code/code
+  1685       alisa           33037.5      64.2     0.0     0.8     0:0.1 /usr/share/code/code
+  1709       alisa         1163132.2     332.1     0.0     4.2    0:6.26 /usr/share/code/code
+  1737       alisa         1150821.7      88.9     0.0     1.1    0:0.48 /usr/share/code/code
+  1747       alisa         1150796.2     164.9     0.0     2.1    0:2.13 /usr/share/code/code
+  1757       alisa         1150789.1     123.1     0.0     1.6    0:2.16 /usr/share/code/code
+  1758       alisa         1150805.7      84.6     0.0     1.1     0:0.7 /usr/share/code/code
+  1828       alisa              13.9       5.4     0.0     0.1    0:0.02    /usr/bin/bash   
+  1868       alisa              13.9       5.4     0.0     0.1    0:0.01    /usr/bin/bash   
+  1945       alisa              13.8       5.2     0.0     0.1     0:0.0    /usr/bin/bash   
+  1952       alisa         1152774.5     205.3     0.0     2.6     0:4.5 /usr/share/code/code
+  2043       alisa             340.0      25.8     0.0     0.3     0:0.1   update-notifier  
+  2070       alisa              13.9       5.4     0.0     0.1    0:0.02    /usr/bin/bash   
+  2112       alisa              24.8      12.6     0.0     0.2    0:0.05 /home/alisa/lesson10/.lesson10venv/bin/python
+  2118       alisa               2.8       1.5     0.0     0.0     0:0.0       /bin/sh      
+  2119       alisa              12.5       3.4     0.0     0.0     0:0.0      /bin/bash     
+  2123       alisa              10.9       1.9     0.0     0.0     0:0.0        sleep       
